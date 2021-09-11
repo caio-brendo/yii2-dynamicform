@@ -1,11 +1,12 @@
 # yii2-dynamicform
 
-[![Latest Version](https://img.shields.io/github/release/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://github.com/wbraganca/yii2-dynamicform/releases)
+[![Latest Version](https://img.shields.io/github/release/caio-brendo/yii2-dynamicform.svg?style=flat-square)](https://github.com/caio-brendo/yii2-dynamicform/releases)
 [![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/wbraganca/yii2-dynamicform.svg?style=flat-square)](https://packagist.org/packages/wbraganca/yii2-dynamicform)
+[![Total Downloads](https://img.shields.io/packagist/dt/caio-brendo/yii2-dynamicform.svg?style=flat-square)](https://packagist.org/packages/caio-brendo/yii2-dynamicform)
 
-
+ 
 It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.
+This repo was forked of [wbraganca/yii2-dynamicform](https://github.com/wbraganca/yii2-dynamicform) and somes bugs fixed 
 ![yii2-dynamicform](https://wbraganca.com/img/yii2-dynamicform/sample.jpg)
 
 ## Installation
@@ -16,13 +17,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist wbraganca/yii2-dynamicform "*"
+php composer.phar require --prefer-dist caio-brendo/yii2-dynamicform "*"
 ```
 
 or add
 
 ```
-"wbraganca/yii2-dynamicform": "*"
+"caio-brendo/yii2-dynamicform": "*"
 ```
 
 to the require section of your `composer.json` file.
