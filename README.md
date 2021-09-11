@@ -14,6 +14,14 @@ This repo was forked of [wbraganca/yii2-dynamicform](https://github.com/wbraganc
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
+Add
+
+```
+"repositories": [ { "type": "git", "url": "https://github.com/caio-brendo/yii2-dynamicform.git" } ],
+```
+
+to the repositories section of your `composer.json` file.
+
 Either run
 
 ```
